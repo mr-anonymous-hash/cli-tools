@@ -16,7 +16,7 @@ Changing your MAC address can disrupt your network connection and may be against
 1. **Clone the repository** (or download the script directly):
 
     ```bash
-    git clone https://github.com/yourusername/macchanger.git
+    git clone https://github.com/mr-anonymous-hash/cli-tools.git
     cd macchanger
     ```
 
