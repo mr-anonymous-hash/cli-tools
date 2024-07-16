@@ -20,7 +20,7 @@ A Python script to change the IP address of a network interface on a Linux syste
 1. **Clone the repository** (or download the script directly):
 
     ```bash
-    git clone https://github.com/yourusername/ipchanger.git
+    git clone  https://github.com/mr-anonymous-hash/cli-tools.git
     cd ipchanger
     ```
 
